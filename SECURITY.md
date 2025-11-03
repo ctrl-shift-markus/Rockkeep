@@ -12,16 +12,8 @@ Rockkeep
 
 </div>
 
-# Supported Versions
-
-- STS: This version is only supported while it's the latest version. Once a new version is released, this version is dead.
-- LTS: This version stays alive even after a newer version has been released for 1-4 releases.
-
-Even if a version is dead, you can still use it as much as you want, it just means that you won't get patches and features.
-
-| Version |  Support status     |
-|-------- |---------------------|
-| v1.0.0  |  LTS (2 releases)   |
+# Versions Lifecycle
+Once a version of Rockkeep releases, it can be used as much as you want, even if new updates are released.
 
 # Reporting a Vulnerability
 In the event that you discover a vulnerability, please don't disclose it publicly! Instead, contact my email (ctrl-shift-markus@pm.me) and within a week or two, you'll get a response.
