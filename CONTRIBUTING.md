@@ -27,5 +27,4 @@ Rockkeep
 In the event you notice something unusual, such as a missing page in the Wiki, a bug with encryption or a piece of code that requires refactoring, don't hesitate to open an issue using the correct/closest tag for your issue. If you don't know what tag to use, look at the Tags subsection above.
 
 # Pull Requests
-If you've forked this repository, comm! Once you make sure your new code follows the existing style of code, isn't fully vibe coded (asking AI to review your code or explain how to do something, but if you've generated 5 new classes and submitted it, that's something else), and has been tested and compiled for no errors, submit the pull request and expect a response within a week or so. Make sure all pull requests target the main branch, and please don't make pull requests for adding your name to README.md!
-
+If you have forked this repository, made any changes you wanted, reviewed your code - ensuring it follows the existing style of code - and tested it, you can submit a pull request for the `main` branch and expect a response within a week or two. Unhelpful requests such as adding your name to documentation or replacing code with gibberish will not be tolerated and automatically closed.
