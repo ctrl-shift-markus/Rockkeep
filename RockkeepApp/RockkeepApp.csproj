@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PublishSingleFile>true</PublishSingleFile>
+		<SelfContained>true</SelfContained>
+		<IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+		<IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+		<RuntimeIdentifiers>win-x64;linux-x64;osx-x64;osx-arm64</RuntimeIdentifiers>
+		<EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+		<AssemblyName>Rockkeep</AssemblyName>
+		<Title>Rockkeep</Title>
+		<Version>1.0.0</Version>
+		<Authors>ctrl-shift-markus</Authors>
+		<Product>Rockkeep</Product>
+		<AssemblyVersion>1.0.0</AssemblyVersion>
+		<FileVersion>1.0.0</FileVersion>
+		<Description>Rockkeep is a secure, cross-platform, offline CLI password manager written in C# (.NET 9.0) that stores encrypted passwords on your own computer, meaning **you** have control over everything!</Description>
+		<AssemblyTitle>Rockkeep</AssemblyTitle>
+		<ApplicationIcon>Rockkeep.ico</ApplicationIcon>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Content Include="Rockkeep.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\RockkeepLibrary\RockkeepLibrary.csproj" />
+	</ItemGroup>
+
+</Project>

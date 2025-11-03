@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockkeepApp", "RockkeepApp\RockkeepApp.csproj", "{62FBBD3C-B159-4969-8C28-0FEF1F5E25ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockkeepLibrary", "RockkeepLibrary\RockkeepLibrary.csproj", "{D796B9E6-929F-4075-9A3D-3477A6C18555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FBBD3C-B159-4969-8C28-0FEF1F5E25ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FBBD3C-B159-4969-8C28-0FEF1F5E25ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FBBD3C-B159-4969-8C28-0FEF1F5E25ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FBBD3C-B159-4969-8C28-0FEF1F5E25ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D796B9E6-929F-4075-9A3D-3477A6C18555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D796B9E6-929F-4075-9A3D-3477A6C18555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D796B9E6-929F-4075-9A3D-3477A6C18555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D796B9E6-929F-4075-9A3D-3477A6C18555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01669BD8-D83A-45B2-8071-ADFB904E0D1E}
+	EndGlobalSection
+EndGlobal

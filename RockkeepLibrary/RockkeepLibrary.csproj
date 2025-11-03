@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<AssemblyName>RockkeepLibrary</AssemblyName>
+	<Title>Rockkeep Library</Title>
+	<Version>1.0.0</Version>
+	<Authors>ctrl-shift-markus</Authors>
+	<Product>Rockkeep Library</Product>
+	<AssemblyVersion>1.0.0</AssemblyVersion>
+	<FileVersion>1.0.0</FileVersion>
+	<Description>Rockkeep Library, a password managing library used by Rockkeep, a secure, cross-platform, offline CLI password manager written in C# (.NET 9.0) that stores encrypted passwords on your own computer, meaning **you** have control over everything!</Description>
+	<AssemblyTitle>RockkeepLibrary</AssemblyTitle>
+  </PropertyGroup>
+
+</Project>
