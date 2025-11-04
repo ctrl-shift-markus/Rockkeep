@@ -16,12 +16,16 @@ Rockkeep
 
 ## Tags
 ![Static Badge](https://img.shields.io/badge/exception%20bug-red) - When a bug occurs during an exception\
-![Static Badge](https://img.shields.io/badge/encryption%20bug-blue) - When a bug occurs during encryption\
 ![Static Badge](https://img.shields.io/badge/password%20handling%20bug-orange) - When a bug occurs during storing, deleting, retrieving or purging\
-![Static Badge](https://img.shields.io/badge/cli%20bug-purple) - When a bug occurs in the CLI\
-![Static Badge](https://img.shields.io/badge/feature-pink) - A new feature\
+![Static Badge](https://img.shields.io/badge/refactor-yellow) - A section of code that requires refactoring\
 ![Static Badge](https://img.shields.io/badge/improvement-green) - Something that could be improved\
-![Static Badge](https://img.shields.io/badge/refactor-yellow) - A section of code that requires refactoring
+![Static Badge](https://img.shields.io/badge/documentation-teal) - A new feature or bug in the Wiki or .md files\
+![Static Badge](https://img.shields.io/badge/encryption%20bug-blue) - When a bug occurs during encryption\
+![Static Badge](https://img.shields.io/badge/cli%20bug-purple) - When a bug occurs in the CLI\
+![Static Badge](https://img.shields.io/badge/feature-pink) - A new feature
+
+
+
 
 ## Guidelines
 In the event you notice something unusual, such as a missing page in the Wiki, a bug with encryption or a piece of code that requires refactoring, don't hesitate to open an issue using the correct/closest tag for your issue. If you don't know what tag to use, look at the Tags subsection above.
