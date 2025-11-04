@@ -27,4 +27,6 @@ Rockkeep
 In the event you notice something unusual, such as a missing page in the Wiki, a bug with encryption or a piece of code that requires refactoring, don't hesitate to open an issue using the correct/closest tag for your issue. If you don't know what tag to use, look at the Tags subsection above.
 
 # Pull Requests
+**Please do not open a large pull request before opening an issue, as there is a chance your hard work will be declined! Please get confirmation from an issue first.**
+
 If you have forked this repository, made any changes you wanted, reviewed your code - ensuring it follows the existing style of code - and tested it, you can submit a pull request for the `main` branch and expect a response within a week or two. Unhelpful requests such as adding your name to documentation or replacing code with gibberish will not be tolerated and automatically closed.
