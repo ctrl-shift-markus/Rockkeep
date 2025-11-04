@@ -1,6 +1,9 @@
 <h1 style="text-align: center;">
 Rockkeep
 </h1>
+<p style="text-align: center;">
+For more information, check the [Wiki](https://www.github.com/ctrl-shift-markus/Rockkeep/wiki).
+</p>
 <div style="text-align: center;">
 
 ![alt text](https://raw.githubusercontent.com/ctrl-shift-markus/markuscodes/refs/heads/main/assets/images/Rockkeep.ico "Our logo")
